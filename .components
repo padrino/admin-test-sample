@@ -1,0 +1,9 @@
+---
+:orm: datamapper
+:test: none
+:mock: none
+:script: none
+:renderer: none
+:stylesheet: none
+:namespace: AdminTestSample
+:migration_format: number
